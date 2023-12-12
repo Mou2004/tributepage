@@ -1,0 +1,98 @@
+
+body {
+    font-family: 'calibri', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000000;    
+}
+
+h1{
+  font-family: Times;
+color:rgb(240, 227, 227);
+text-align:center;
+}
+
+span{
+    display:block;
+    font-size:1rem;
+    font-style:italic;
+font-weight:normal;
+font-family: Times;
+color:#fff;
+text-align: center;
+}
+
+#main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  
+}
+
+#title {
+    color: rgb(240, 227, 227);
+}
+
+#img-div {
+    margin-top: 20px;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+#img-caption {
+    color: rgb(227, 240, 73);
+    margin-top: 10px;
+    font-style:italic;
+    font-size:.75em;
+    text-align:center;
+}
+
+#tribute-info { text-align:center;
+    margin-top: 20px;
+    color: rgb(220, 210, 210);
+    font-style: italic;
+    
+}
+
+ul
+{padding:none;
+margin:none;
+list-style-type:none;}
+
+header{border-bottom: 2px solid #ddd;
+color:rgba(147, 201, 70, 0.945);
+font-size:1.45em;
+font-family: Times, serif;}
+
+li>p{
+    text-align:center;
+    color:rgb(255, 255, 255);
+    font-family: calibri , sans-serif;
+}
+
+q { text-align:center;
+    margin-top: 20px;
+    color: rgb(220, 210, 210);
+    font-style: italic;
+    font-family:serif;
+}
+
+#tribute-link {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #354654;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    
+}
+
+#tribute-link:hover {
+    background-color: #4275b5;
+}
